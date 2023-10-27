@@ -1,0 +1,68 @@
+[25-Oct-2023 09:57:59 UTC] PHP Warning:  Undefined array key "url" in /Users/anais/Local Sites/my-game-world/app/public/wp-content/plugins/elementor/includes/template-library/classes/class-import-images.php on line 199
+[26-Oct-2023 08:51:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/anais/Local Sites/my-game-world/app/public/wp-includes/update.php on line 211
+[26-Oct-2023 08:51:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/anais/Local Sites/my-game-world/app/public/wp-includes/update.php on line 449
+[26-Oct-2023 08:51:48 UTC] PHP Warning:  An unexpected error occurred. Something may be wrong with WordPress.org or this server&#8217;s configuration. If you continue to have problems, please try the <a href="https://wordpress.org/support/forums/">support forums</a>. (WordPress could not establish a secure connection to WordPress.org. Please contact your server administrator.) in /Users/anais/Local Sites/my-game-world/app/public/wp-includes/update.php on line 730
+[26-Oct-2023 13:49:00 UTC] PHP Warning:  Attempt to read property "title" on null in /Users/anais/Local Sites/my-game-world/app/public/wp-includes/class-wp-customize-widgets.php on line 905
+[26-Oct-2023 14:31:23 UTC] Sync process for Gutenberg Blocks has started.
+[26-Oct-2023 14:31:23 UTC] CATEGORY:Importing categories..
+[26-Oct-2023 14:31:23 UTC] CATEGORY:Storing in option ast-block-templates-categories
+[26-Oct-2023 14:31:23 UTC] CATEGORY:Completed category import.
+[26-Oct-2023 14:31:23 UTC] BLOCK: Getting Total Blocks
+[26-Oct-2023 14:31:23 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/get-blocks-count/?page_builder=gutenberg&wireframe=yes
+[26-Oct-2023 14:31:23 UTC] BLOCK: Requests count 4
+[26-Oct-2023 14:31:23 UTC] BLOCK: Importing request 1 ..
+[26-Oct-2023 14:31:23 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=1&wireframe=yes
+[26-Oct-2023 14:31:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-1
+[26-Oct-2023 14:31:24 UTC] BLOCK: Completed request 1
+[26-Oct-2023 14:31:24 UTC] BLOCK: Importing request 2 ..
+[26-Oct-2023 14:31:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=2&wireframe=yes
+[26-Oct-2023 14:31:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-2
+[26-Oct-2023 14:31:24 UTC] BLOCK: Completed request 2
+[26-Oct-2023 14:31:24 UTC] BLOCK: Importing request 3 ..
+[26-Oct-2023 14:31:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=3&wireframe=yes
+[26-Oct-2023 14:31:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-3
+[26-Oct-2023 14:31:24 UTC] BLOCK: Completed request 3
+[26-Oct-2023 14:31:24 UTC] BLOCK: Importing request 4 ..
+[26-Oct-2023 14:31:24 UTC] BLOCK: https://websitedemos.net/wp-json/astra-blocks/v1/blocks/?page_builder=gutenberg&per_page=100&page=4&wireframe=yes
+[26-Oct-2023 14:31:24 UTC] BLOCK: Storing in option ast-block-templates-blocks-4
+[26-Oct-2023 14:31:24 UTC] BLOCK: Completed request 4
+[26-Oct-2023 14:31:24 UTC] SITE: Getting Total Sites
+[26-Oct-2023 14:31:24 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/get-total-pages/?page_builder=gutenberg
+[26-Oct-2023 14:31:25 UTC] SITE: Request count 2
+[26-Oct-2023 14:31:25 UTC] SITE: Importing request 1 ..
+[26-Oct-2023 14:31:25 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=1&page-builder=gutenberg
+[26-Oct-2023 14:31:25 UTC] SITE: Storing in option ast-block-templates-sites-1
+[26-Oct-2023 14:31:25 UTC] SITE: Completed request 1
+[26-Oct-2023 14:31:25 UTC] SITE: Importing request 2 ..
+[26-Oct-2023 14:31:25 UTC] SITE: https://websitedemos.net/wp-json/astra-sites/v1/sites-and-pages/?per_page=100&page=2&page-builder=gutenberg
+[26-Oct-2023 14:31:25 UTC] SITE: Storing in option ast-block-templates-sites-2
+[26-Oct-2023 14:31:26 UTC] SITE: Completed request 2
+[26-Oct-2023 14:31:26 UTC] Sync process for Gutenberg Blocks is done.
+[26-Oct-2023 14:32:17 UTC] Source - https://websitedemos.net/wp-content/uploads/2021/08/placeholder3-dark.jpg
+[26-Oct-2023 14:32:17 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2021/08/placeholder3-dark.jpg
+[26-Oct-2023 14:32:17 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2021\/08\/placeholder3-dark.jpg","id":0}
+[26-Oct-2023 14:32:17 UTC] placeholder3-dark.jpg
+[26-Oct-2023 14:32:17 UTC] {"file":"\/Users\/anais\/Local Sites\/my-game-world\/app\/public\/wp-content\/uploads\/2023\/10\/placeholder3-dark.jpg","url":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/placeholder3-dark.jpg","type":"image\/jpeg","error":false}
+[26-Oct-2023 14:32:17 UTC] {"post_title":"placeholder3-dark.jpg","guid":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/placeholder3-dark.jpg"}
+[26-Oct-2023 14:32:17 UTC] BATCH - SUCCESS Image {Imported} - http://my-game-world.local/wp-content/uploads/2023/10/placeholder3-dark.jpg
+[27-Oct-2023 08:57:39 UTC] Source - https://websitedemos.net/wp-content/uploads/2020/06/flowers-cherry.jpg
+[27-Oct-2023 08:57:39 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2020/06/flowers-cherry.jpg
+[27-Oct-2023 08:57:39 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2020\/06\/flowers-cherry.jpg","id":0}
+[27-Oct-2023 08:57:39 UTC] flowers-cherry.jpg
+[27-Oct-2023 08:57:39 UTC] {"file":"\/Users\/anais\/Local Sites\/my-game-world\/app\/public\/wp-content\/uploads\/2023\/10\/flowers-cherry.jpg","url":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/flowers-cherry.jpg","type":"image\/jpeg","error":false}
+[27-Oct-2023 08:57:39 UTC] {"post_title":"flowers-cherry.jpg","guid":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/flowers-cherry.jpg"}
+[27-Oct-2023 08:57:40 UTC] BATCH - SUCCESS Image {Imported} - http://my-game-world.local/wp-content/uploads/2023/10/flowers-cherry.jpg
+[27-Oct-2023 08:57:40 UTC] Source - https://websitedemos.net/wp-includes/images/media/default.png
+[27-Oct-2023 08:57:40 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-includes/images/media/default.png
+[27-Oct-2023 08:57:40 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-includes\/images\/media\/default.png","id":0}
+[27-Oct-2023 08:57:41 UTC] default.png
+[27-Oct-2023 08:57:41 UTC] {"file":"\/Users\/anais\/Local Sites\/my-game-world\/app\/public\/wp-content\/uploads\/2023\/10\/default.png","url":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/default.png","type":"image\/png","error":false}
+[27-Oct-2023 08:57:41 UTC] {"post_title":"default.png","guid":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/default.png"}
+[27-Oct-2023 08:57:41 UTC] BATCH - SUCCESS Image {Imported} - http://my-game-world.local/wp-content/uploads/2023/10/default.png
+[27-Oct-2023 09:06:41 UTC] Source - https://websitedemos.net/wp-content/uploads/2021/08/placeholder5.jpg
+[27-Oct-2023 09:06:41 UTC] BATCH - SKIP Image {already imported from xml} - https://websitedemos.net/wp-content/uploads/2021/08/placeholder5.jpg
+[27-Oct-2023 09:06:41 UTC] Log - {"url":"https:\/\/websitedemos.net\/wp-content\/uploads\/2021\/08\/placeholder5.jpg","id":0}
+[27-Oct-2023 09:06:41 UTC] placeholder5.jpg
+[27-Oct-2023 09:06:41 UTC] {"file":"\/Users\/anais\/Local Sites\/my-game-world\/app\/public\/wp-content\/uploads\/2023\/10\/placeholder5.jpg","url":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/placeholder5.jpg","type":"image\/jpeg","error":false}
+[27-Oct-2023 09:06:41 UTC] {"post_title":"placeholder5.jpg","guid":"http:\/\/my-game-world.local\/wp-content\/uploads\/2023\/10\/placeholder5.jpg"}
+[27-Oct-2023 09:06:41 UTC] BATCH - SUCCESS Image {Imported} - http://my-game-world.local/wp-content/uploads/2023/10/placeholder5.jpg
